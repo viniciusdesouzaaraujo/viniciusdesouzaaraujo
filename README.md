@@ -31,5 +31,5 @@ Simulação de uma célula industrial controlada por CLP virtual, utilizando pro
 
 ### 🌐 Redes, Contato & Projetos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-de-souza-ara%C3%BAjo-3416363a6/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusdesouzaraujo1@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusdesouzaaraujo1@gmail.com)
 
