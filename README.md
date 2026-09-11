@@ -22,10 +22,10 @@ Meu objetivo é desenvolver uma base sólida em automação, mecatrônica e tecn
 
 ### 📝 Projetos técnicos 
 Serão publicados aqui conforme forem documentados e concluídos.
-Em desenvolvimento
-Célula de Automação Industrial — Factory I/O + CODESYS
+- Em desenvolvimento
+### Célula de Automação Industrial — Factory I/O + CODESYS
 Simulação de uma célula industrial controlada por CLP virtual, utilizando programação Ladder, sensores, atuadores, esteiras e lógica de controle.
-
+Status: Em desenvolvimento
 
 ---
 
